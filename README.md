@@ -1,1 +1,1 @@
-Die Bilder müssen nach dem Download selbst in einen separaten Ordner hinzugefügt werden und können hier nicht hochgeladen werden.
+Der Bilder-Ordner muss nach dem Download nochmal separat extrahiert werden.
